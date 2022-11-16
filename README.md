@@ -14,3 +14,15 @@ It is a python script which predicts only  whether human is tired or not tired. 
 
 ## original.py
 It is a python script in which Whole process is present in this script. It detects the human condition .Based on human condition , If human is not tired , simply it will print " You are Not Tired. " If human is tired , two motors will turn ON (in real life assume it as AC,FAN), Pleasant Songs will be played , Some relaxation tips will be given and A mini vehicle which consists of glass of water will move forward and move backward after completion of drinking of water (here mini vehicle can be assumed that we can relate this for IoT Applications).
+
+## TechFest.ino 
+It is a arduino file which it will controls hardware i.e., it controls DC Motors , Servo Motors , IR Sensor.
+
+## yolov3_custom.cfg
+It is a configured custom yolo configuration file . It is used to store information regarding configuration and settings for computer programs.
+
+## yolov3_custom_4000.weights
+Trained weights 
+
+## Songs 
+It is a folder consists of songs (mp3 format) to play while human is tired.
