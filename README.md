@@ -24,5 +24,5 @@ It is a configured custom yolo configuration file . It is used to store informat
 ## yolov3_custom_4000.weights
 Trained weights 
 
-## Songs 
+## Songs.zip 
 It is a folder consists of songs (mp3 format) to play while human is tired.
