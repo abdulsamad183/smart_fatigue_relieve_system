@@ -21,8 +21,8 @@ It is a arduino file which it will controls hardware i.e., it controls DC Motors
 ## yolov3_custom.cfg
 It is a configured custom yolo configuration file . It is used to store information regarding configuration and settings for computer programs.
 
-## yolov3_custom_4000.weights
-Trained weights 
+## yolov3_custom_4000.weights.txt
+Trained weights . There is google drive link to download the trained weights.
 
 ## Songs.zip 
 It is a folder consists of songs (mp3 format) to play while human is tired.
