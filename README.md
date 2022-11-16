@@ -7,7 +7,7 @@ We propose a fully automated Smart System which is independent of manual interve
 # Main principle behind this .
 Using Computer vision algorithms we detect facial condition of humans . Based on results micro controller will do necessary actions like controlling AC and other electrical appliances to relieve tiredness
 
-![Block Diagram](https://github.com/[abdulsamad183]/[smart_fatigue_relieve_system]/blob/[master]/block_diagram.jpg?raw=true)
+![Block Diagram](https://github.com/abdulsamad183/smart_fatigue_relieve_system/blob/main/block_diagram.jpg)
 
 # How this works ( What are those files ? )
 ## yolo_detect.py
